@@ -1,6 +1,8 @@
 # Magnetic_Focusing-MANIM
 An animation made by **Brilliant_Pig** using manim, which is about Magnetic Focusing. 
 
-Welcome to visit my bilibili video page: https://www.bilibili.com/video/BV1XZaCz5EdG/?spm_id_from=333.1007.top_right_bar_window_history.content.click&amp;amp;vd_source=71856372f71dc65fa621624d569d9576
+Welcome to visit my bilibili video page: 
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115143744688127&bvid=BV1XZaCz5EdG&cid=32145477170&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+【【manim】磁聚焦现象 “原本道路平行的我们，共赴同一终点”】 https://www.bilibili.com/video/BV1XZaCz5EdG/?share_source=copy_web&vd_source=7b03e30755cf8b43ed58434a735c1498
+
+[![Watch the video](https://i0.hdslb.com/bfs/archive/17f83fb15d35079242419ad4c4daa2ec57465a99.jpg@672w_378h_1c.avif)](https://www.bilibili.com/video/BV1XZaCz5EdG?t=18.8)
